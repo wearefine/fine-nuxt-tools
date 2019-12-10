@@ -1,0 +1,28 @@
+{
+  "name": "fine-nuxt-tools",
+  "version": "0.0.1",
+  "description": "Various helpers + config abstraction for Nuxt applications @wearefine",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wearefine/fine-nuxt-tools.git"
+  },
+  "author": "FINE, A Brand Agency (https://wearefine.com)",
+  "contributors": [
+    "Aaron Ransley (https://aaronransley.com)",
+    "Charlie Pitkin (https://charliepitkin.com)"
+  ],
+  "scripts": {
+    "test": "node -r esm test/index",
+    "usage": "node -r esm example"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  },
+  "dependencies": {
+    "boolean": "^3.0.0",
+    "lodash.isempty": "^4.4.0",
+    "map-env-vars": "^0.1.5"
+  }
+}
