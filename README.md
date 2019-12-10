@@ -15,7 +15,10 @@ Provided functions + packages:
 **example.js**
 
 ```js
-console.log(`code`)
+import { basicAuthHeader } from 'fine-nuxt-tools'
+
+let authHeader = basicAuthHeader('blah:blub')
+console.log(authHeader) // 'Basic YmxhaDpibHVi'
 ```
 
 Talk about code
@@ -25,8 +28,7 @@ Talk about code
 Talk about options, exports:
 
 ```js
-let authHeader = basicAuthHeader('blah:blub')
-console.log(authHeader) // 'Basic YmxhaDpibHVi'
+// ...
 ```
 
 ## TODO
