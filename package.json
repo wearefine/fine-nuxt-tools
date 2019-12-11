@@ -1,6 +1,6 @@
 {
   "name": "fine-nuxt-tools",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Various helpers + config abstraction for Nuxt applications @wearefine",
   "main": "index.js",
   "repository": {
@@ -23,6 +23,6 @@
   "dependencies": {
     "boolean": "^3.0.0",
     "lodash.isempty": "^4.4.0",
-    "map-env-vars": "^0.1.5"
+    "map-env-vars": "^0.2.0"
   }
 }

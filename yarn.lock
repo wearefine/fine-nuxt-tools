@@ -17,7 +17,7 @@ lodash.isempty@^4.4.0:
   resolved "https://registry.yarnpkg.com/lodash.isempty/-/lodash.isempty-4.4.0.tgz#6f86cbedd8be4ec987be9aaf33c9684db1b31e7e"
   integrity sha1-b4bL7di+TsmHvpqvM8loTbGzHn4=
 
-map-env-vars@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/map-env-vars/-/map-env-vars-0.1.5.tgz#8a1af8fea5c40b1c990f50196f7a8d485eb9e164"
-  integrity sha512-OVXKAG5jUDxJswu+llkyp/b6qI+MXNDOfqzyc1YIfUS3KUVlJblQlL8y/Z2fgGnRTJeVRJvbOIxXVHe2hX4WqQ==
+map-env-vars@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/map-env-vars/-/map-env-vars-0.2.0.tgz#c38f4d981304956466b3b65cbac136ca002bbc7b"
+  integrity sha512-noUey1B2ZgJ9Yz3V/IPyKx45pSFIb1nSUMmtdZA18jeAMIs6D0sG8Wfl/wevISWSTvRYUlC3QQtGSh0blcIkxA==
