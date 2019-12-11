@@ -1,6 +1,6 @@
 {
   "name": "fine-nuxt-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Various helpers + config abstraction for Nuxt applications @wearefine",
   "main": "index.js",
   "repository": {

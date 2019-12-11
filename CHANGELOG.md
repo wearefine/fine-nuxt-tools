@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - ...
 
+## [v0.0.2] - 12-11-2019
+
+- Add siteName to config returned from builder
+
 ## [v0.0.1] - 12-10-2019
 
 - Initial bits! 🎉
