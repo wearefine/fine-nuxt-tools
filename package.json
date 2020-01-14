@@ -21,8 +21,15 @@
     "esm": "^3.2.25"
   },
   "dependencies": {
+    "apollo-cache-inmemory": "^1.6.5",
+    "apollo-link": "^1.2.13",
+    "apollo-link-error": "^1.1.12",
+    "apollo-link-http": "^1.5.16",
     "boolean": "^3.0.0",
+    "graphql": "^14.5.8",
+    "graphql-tag": "^2.10.1",
     "lodash.isempty": "^4.4.0",
-    "map-env-vars": "^0.2.0"
+    "map-env-vars": "^0.2.0",
+    "nuxt-winston-log": "^1.0.2"
   }
 }

@@ -36,6 +36,6 @@ Talk about options, exports:
 ### NuxtConfigBuilder
 
 - [x] Pull standardized auth, proxy, and apollo config from Nuxt codebases
-- [ ] Add error checking to ensure required environmentVarLookups are present
+- [x] Add error checking to ensure required environmentVarLookups are present
 - [ ] Add error reporting / trycatch to various levels of config generation
 - [ ] Add dotnev-flow as dev-dep, .env, and a mock test case in test/index.js
