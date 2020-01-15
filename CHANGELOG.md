@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - ...
 
+## [v0.2.0] - 1-15-2019
+
+- Move to a new apollo-config setup with more transparent error handling
+
 ## [v0.1.0] - 12-11-2019
 
 - Rename various vars, add validation for required var lookup keys
