@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - ...
 
+## [v0.3.0] - 1-15-2019
+
+- Add new required config param: `throwOnGqlError`
+
 ## [v0.2.1] - 1-15-2019
 
 - Error checking for $winstonLogger instance
