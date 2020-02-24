@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - ...
 
+## [v0.3.3] - 2-24-2019
+
+- Add `siteName` to `env` object
+
 ## [v0.3.2] - 2-19-2019
 
 - Resolve issue w/ `boolean` import
