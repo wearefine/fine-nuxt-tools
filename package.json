@@ -30,6 +30,6 @@
     "graphql-tag": "^2.10.1",
     "lodash.isempty": "^4.4.0",
     "map-env-vars": "^0.2.0",
-    "nuxt-winston-log": "^1.0.2"
+    "nuxt-winston-log": "^1.2.0"
   }
 }
