@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [v0.3.4] - 3-25-2021
 
-- Add `siteName` to `env` object
+- Bump `nuxt-winston-log` version
 
 ## [v0.3.3] - 2-24-2019
 
